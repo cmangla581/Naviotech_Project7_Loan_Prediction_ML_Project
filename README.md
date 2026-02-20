@@ -1,7 +1,9 @@
 # Naviotech_Project7_Loan_Prediction_ML_Project
 
 Loan Prediction helps in predicting whther the loan of an applicant will get accepted or rejected, by using the k neighbors  Classifier, which makes the prediction using the euclidean distance of the neighboring plots.  
+
 Also, the prediction is mainly made on features like the: 
+        
         1. marital Status 
         2. Dependents 
         3. Employment Type 
